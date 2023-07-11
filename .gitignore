@@ -1,3 +1,6 @@
+# Sensitive Information
+config.json
+
 # Logs
 logs
 *.log
